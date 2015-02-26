@@ -6,7 +6,7 @@
 ?>
 <html>
 <head>
-<title>Identificaci&oacute;n de Usuario</title>
+<title>Login de Usuario</title>
 
 <link href="css/sistema.css" type="text/css" rel="stylesheet"/>	
 </head>
