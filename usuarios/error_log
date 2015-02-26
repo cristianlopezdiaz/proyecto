@@ -1,0 +1,74 @@
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at end of input
+LINE 1: SELECT perm_id FROM permiso_usuario WHERE us_id=
+                                                        ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:34:11 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 03:34:30 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:34:30 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:34:30 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:34:30 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 03:35:49 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:35:49 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:35:49 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:35:49 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 03:36:12 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:36:12 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:36:12 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:36:12 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 03:41:35 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:41:36 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:41:36 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:41:36 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 03:42:46 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;ORDER&quot;
+LINE 1: SELECT * FROM permiso WHERE perm_cat=ORDER BY perm_id, perm_...
+                                             ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[05-Jan-2015 03:42:46 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73
+[05-Jan-2015 03:42:46 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at or near &quot;AND&quot;
+LINE 1: SELECT * FROM permiso_usuario WHERE perm_id= AND us_id=1 LIM...
+                                                     ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 52
+[05-Jan-2015 03:42:46 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 53
+[05-Jan-2015 04:04:27 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:04:27 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 40
+[05-Jan-2015 04:04:41 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:04:41 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:04:52 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:04:52 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:04:52 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 40
+[05-Jan-2015 04:07:07 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:07:07 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:07:07 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:07:07 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 40
+[05-Jan-2015 04:09:16 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:09:16 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:09:16 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 40
+[05-Jan-2015 04:09:52 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:09:52 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:19:37 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence permiso_usuario_permu_id_seq in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[05-Jan-2015 04:19:37 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  current transaction is aborted, commands ignored until end of transaction block in /home/cristia1/public_html/proyecto/usuarios/guardar_permisos.php on line 21
+[16-Jan-2015 03:41:50 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  syntax error at end of input
+LINE 1: SELECT perm_id FROM permiso_usuario WHERE us_id=
+                                                        ^ in /home/cristia1/public_html/proyecto/conexion_bd.php on line 72
+[16-Jan-2015 03:41:50 UTC] PHP Warning:  pg_num_fields() expects parameter 1 to be resource, boolean given in /home/cristia1/public_html/proyecto/conexion_bd.php on line 73

@@ -1,0 +1,2 @@
+[20-Dec-2014 17:47:21 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence usuario_us_id_seq in /home/cristia1/public_html/proyecto/usuarios/agrega_usuario.php on line 16
+[20-Dec-2014 17:48:28 UTC] PHP Warning:  pg_query() [<a href='function.pg-query'>function.pg-query</a>]: Query failed: ERROR:  permission denied for sequence usuario_us_id_seq in /home/cristia1/public_html/proyecto/usuarios/agrega_usuario.php on line 16
