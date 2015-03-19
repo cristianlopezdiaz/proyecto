@@ -7,12 +7,12 @@
  $nombre_sistema='SISTEMA DE VENTAS E INVENTARIO';
  $nombre_institucion='CRISTIAN LOPEZ';
  
- $user = "postgres";
- $password = "lopezdiaz18";
- $dbname = "cristia1_tienda";
- $port = "5432";
- $host = "localhost";
+ $user = '';
+ $password = '';
+ $dbname = '';
+ $port = '';
+ $host = '';
  $ruta_logo = "imagenes/logo.png";
- $ruta_sistema = "http://crlopezd.ddns.net/proyecto";
+ $ruta_sistema = '''';
 
 ?>
